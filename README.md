@@ -6,7 +6,7 @@ UI buttons and labels in bold.
 
 Example:
 
-    After entering your information, click **Submit**.
+    After entering your information, click **Submit**
 
 **Note:**
 
